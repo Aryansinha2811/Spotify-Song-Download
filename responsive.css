@@ -1,0 +1,175 @@
+@media (min-width: 280px) and (max-width: 400px){
+    .spotify-logo {
+        width: 175px;
+        height: 258px;
+        position: relative;
+        top: 115px;
+        left: 173px;
+    }
+    #description {
+        font-size: 28px;
+        margin: 10px;
+        top: 75px;
+        position: relative;
+        left: 125px;
+    }
+    #description-2{
+        font-size: 35px;
+        margin: 20px;
+        top: 90px;
+        position: relative;
+        left: 85px;
+    }
+    #song-url {
+        left: 185px;
+        bottom: -88px;
+    }
+    button{
+        position: relative;
+        bottom: -110px;
+        left: 92px;
+    }
+    .form__field{
+        width: 1000px;
+    }
+    #container{
+        height: 80vh; 
+        width: 80vw;
+    }
+    #custom-card{
+        width: 255px;
+        left: 35px;
+    }
+    .custom-card-footer {
+        margin-top: 10px; 
+        font-size: 15px;
+    }
+    #download-button {
+        height: 45px;
+        left: 15px;
+    }
+}
+
+@media (min-width: 401px) and (max-width: 510px){
+    .spotify-logo {
+        width: 175px;
+        height: 258px;
+        position: relative;
+        top: 115px;
+        left: 173px;
+    }
+    #description {
+        font-size: 26px;
+        margin: 10px;
+        top: 78px;
+        position: relative;
+        left: 53px;
+    }
+    #description-2{
+        font-size: 35px;
+        margin: 20px;
+        top: 80px;
+        position: relative;
+        left: 30px;
+    }
+    #song-url {
+        left: 142px;
+        bottom: -80px;
+    }
+    button{
+        position: relative;
+        bottom: -110px;
+        left: 40px;
+    }
+    .form__field{
+        width: 1000px;
+    }
+    #container{
+        height: 80vh; 
+        width: 80vw;
+    }
+    #custom-card{
+        width: 255px;
+        left: 35px;
+    }
+    .custom-card-footer {
+        margin-top: 10px; 
+        font-size: 15px;
+    }
+    #download-button {
+        height: 45px;
+        left: 15px;
+    }
+}
+
+@media (min-width: 511px) and (max-width: 605px){
+    .spotify-logo {
+        width: 235px;
+        height: 258px;
+        position: relative;
+        top: 80px;
+        left: 173px;
+    }
+    #description {
+        font-size: 25px;
+        margin: 10px;
+        top: 55px;
+        position: relative;
+        left: 60px;
+    }
+    #description-2{
+        font-size: 35px;
+        margin: 20px;
+        top: 70px;
+        position: relative;
+        left: 18px;
+    }
+    #song-url {
+        left: 155px;
+        bottom: -75px;
+    }
+    button{
+        position: relative;
+        bottom: -98px;
+        left: 20px;
+    }
+    .form__field{
+        width: 1000px;
+    }
+}
+
+@media (min-width: 606px) and (max-width: 720px){
+    .spotify-logo {
+        width: 255px;
+        height: 245px;
+        position: relative;
+        top: 40px;
+        left: 185px;
+    }
+    #description {
+        ffont-size: 16px;
+        margin: 10px;
+        top: 30px;
+        position: relative;
+        left: 46px;
+    }
+    #description-2{
+        font-size: 25px;
+        margin: 20px;
+        top: 45px;
+        position: relative;
+        left: 30px;
+    }
+    #song-url {
+        left: 180px;
+        bottom: -45px;
+    }
+    button{
+        position: relative;
+        bottom: -85px;
+        left: 20px;
+    }
+    .form__field{
+        width: 1000px;
+    }
+}
